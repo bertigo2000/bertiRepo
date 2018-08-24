@@ -42,7 +42,7 @@ public class Product {
 	    //info qu'on ne veut pas afficher dans une requette
 	    private int prixAchat;
 	    
-	  
+	    private int qteStock;
 	    
 	    
 	    
